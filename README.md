@@ -74,18 +74,26 @@ due to the lack of necessity of operating on the state structure.
 
 Results of algorithm on pictures below (sensible visualization too big for GIF).
 
+<p>
 <b>Custom input</b>
 
 <img src="Pictures/Inputed.png" alt="algorithm result custom input"/>
-
+</p>
+<br>
+<p>
 <b>Random input</b>
 
 <img src="Pictures/Random.png"  alt="algorithm result random input"/>
-
+</p>
+<br>
+<p>
 <b>Selected 3 segments with 3 intersection points</b>
 
 <img src="Pictures/Result3.png" alt="algorithm result selected input with 3 intersections"/>
-
+</p>
+<br>
+<p>
 <b>Loads of random segments</b>
 
 <img src="Pictures/ResultBig.png" alt="algorithm result for big randomized input"/>
+</p>

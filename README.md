@@ -1,7 +1,7 @@
 # Bentley-Ottmann
 Bentley-Ottmann algorithm for computational geometry laboratories. It finds segments intersections.
 
-What is interesting about this particular algorithm is its time complexity, 
+What is interesting about this particular algorithm, is its time complexity, 
 which is O((n + k) log(n)), where n is number of segments and k number of intersections.
 For k = o(n^2 / log(n)) it is an improvement on a naive approach, which checks every pair of segments and has time complexity O(n^2).
 

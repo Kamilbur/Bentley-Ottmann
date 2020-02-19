@@ -65,10 +65,11 @@ Finally, taking into consideration previous results we have total time complexit
 Algorithm for checking intersection existance works exactly the same way, yet state structure is just an ordinary list,
 due to the lack of necessity of operating on the state structure.
 
+<p align="center">
 <img src="Pictures/GIF1.gif" width="624" height="338" alt="GIF - visualization of algorithm" />
 
 <img src="Pictures/GIF2.gif" width="624" height="338" alt="GIF - visualization of algorithm" />
-
+</p>
 
 ### Finding all intersections
 
